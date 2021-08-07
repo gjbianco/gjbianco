@@ -1,6 +1,4 @@
-- frontend developer
-- curriculum developer
-- CLI and vim enthusiast
+![Metrics](https://metrics.lecoq.io/gjbianco?template=terminal&base.community=0&base.repositories=0&base.metadata=0&config.timezone=America%2FNew_York)
 
 <!--
 **gjbianco/gjbianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
