@@ -1,4 +1,6 @@
-### Hi there 👋
+- frontend developer
+- curriculum developer
+- CLI and vim enthusiast
 
 <!--
 **gjbianco/gjbianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
